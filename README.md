@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Connect365](https://play.google.com/store/apps/details?id=com.nirvasoft.app081)
 
-- 🌱 I’m currently learning **Software Engineering, Nestjs**
+- 🌱 I’m currently learning **Software Engineering, Nestjs, Golang**
 
 - 📫 How to reach me **minhankyaw.mh@gmail.com**
 
