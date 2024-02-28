@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Han Kyaw</h1>
-<h3 align="center">Based in Myanmar, I have over six years of experience developing complex applications.</h3>
+<h3 align="center">Based in Myanmar, I have over six years of experience developing complex applications. My experience includes developing high-performance APIs with scalable and resource-efficient code. I have worked previously as a full stack developer for social media, taxis, human resources, and eCommerce. I am currently working for a software development agency on a variety of projects. I use Python,Nodejs and AWS mainly</h3>
 
 - 🔭 I’m currently working on [Connect365](https://play.google.com/store/apps/details?id=com.nirvasoft.app081)
 
