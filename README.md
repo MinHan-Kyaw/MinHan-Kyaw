@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Han Kyaw</h1>
-<h3 align="center">I have over six years of experience developing complex applications. My experience includes developing high-performance APIs with scalable and resource-efficient code. I have worked previously as a full stack developer for social media, taxis, human resources, and eCommerce. I use Python,Nodejs, Reactjs and AWS mainly</h3>
+<h3 align="center">I have over six years of experience developing complex applications. My experience includes developing high-performance APIs with scalable and resource-efficient code. I have previously worked as a full-stack developer in social media, taxi services, human resources, and eCommerce. Currently, I am working as a full-stack developer for video editing software using AI. I primarily use Python, Node.js, React.js, and AWS</h3>
 
 - 🌱 I’m currently learning **Golang**
 
